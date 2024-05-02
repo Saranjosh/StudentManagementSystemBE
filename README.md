@@ -54,6 +54,6 @@ cd StudentManagementSystem/backend</code></pre>
     <h2>License</h2>
     <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
     <h2>Contact</h2>
-    <p>Your Name - Khandavalli Saran Josh</p>
+    <p>Name - Khandavalli Saran Josh</p>
     <p>Project Link: <a href="https://github.com/Saranjosh/StudentManagementSystemBE">https://github.com/Saranjosh/StudentManagementSystemBE</a></p>
 </body>
